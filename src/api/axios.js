@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'https://technotes-api.onrender.com';
+const BASE_URL = 'https://notebook-backend-cejg.onrender.com';
 
 const axiosInstance = axios.create({
     baseURL: BASE_URL,
